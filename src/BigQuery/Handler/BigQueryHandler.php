@@ -9,7 +9,11 @@ use Monolog\Logger;
 use Monolog\Handler\AbstractProcessingHandler;
 
 /**
- *  VERSION: 2.0
+ *
+ * Monolog handler for BigQuery
+ *
+ * Class BigQueryHandler
+ * @package BigQuery\Handler
  */
 class BigQueryHandler extends AbstractProcessingHandler
 {

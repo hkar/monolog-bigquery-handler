@@ -1,0 +1,29 @@
+{
+  "name": "hkar/monolog-bigquery-handler",
+  "description": "A handler for Monolog that sends messages to Google BigQuery.",
+  "keywords": [
+    "log",
+    "logging",
+    "monolog",
+    "bigquery",
+    "laravel",
+    "symfony"
+  ],
+  "homepage": "https://github.com/hkar/monolog-bigquery-handler",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jan Karásek",
+      "email": "devel@hkar.eu"
+    }
+  ],
+  "require": {
+    "monolog/monolog": ">=1.4",
+    "google/apiclient": "^1.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "BigQuery": "src"
+    }
+  }
+}

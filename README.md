@@ -1,8 +1,6 @@
 monolog-bigquery-handler
 ===========================
 
-Current Version: 0.0
-
 ## Installation
 
 Add the following to your composer.json and run `composer update`

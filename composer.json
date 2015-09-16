@@ -14,7 +14,8 @@
   "authors": [
     {
       "name": "Jan Karásek",
-      "email": "devel@hkar.eu"
+      "email": "devel@hkar.eu",
+      "role": "Developer"
     }
   ],
   "require": {
